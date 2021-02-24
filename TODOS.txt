@@ -1,0 +1,9 @@
+================ Sun, feb 28th ================
+1. To create a new web site. This web site should have at least 3 different web pages.
+2. To create at least 2 different CSS files.
+3. Images must be included.
+4. Every page must have links to the others pages.
+5. This project must be hosted on GitHub with the following name: "taller-html-css"
+6. contraints:
+    1. This home work must be presented individually
+    2. Deadline: Sun, feb 28th
