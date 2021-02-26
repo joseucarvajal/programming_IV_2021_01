@@ -7,3 +7,10 @@
 6. contraints:
     1. This home work must be presented individually
     2. Deadline: Sun, feb 28th
+
+================ Tue, Mar 2nd ================
+1. To create a new database, as per an idea that might have.
+2. The database must have at least 4 different tables with relations among them.
+3. Populate the database tables with fake data (at least 5 records for each table)
+4. To create a new Github project to attach some screenshots with information about the tables, fields, and the fake records inserted into the tables.
+5. The GitHub project must be named: "web-project-db-design"
