@@ -14,3 +14,12 @@
 3. Populate the database tables with fake data (at least 5 records for each table)
 4. To create a new Github project to attach some screenshots with information about the tables, fields, and the fake records inserted into the tables.
 5. The GitHub project must be named: "web-project-db-design"
+
+================ Tue, Mar 16th ================
+1. Create new GitHub project: "create-records-db"
+2. Create two different pages to allow the end user create new objets/records. At least one form, should include a relationship with another table. (e.g.): The form we created in class (enrollment -> student).
+3. Once the record has been created, the form data shouldn't lost. Not white screens as response are allowed, same fashion as we did with the "calculator" exercise in clase. The same initial form should be displayed.
+4. Attach the following screenshots. Step by step.
+4.1. Web application
+4.2. Creating records
+4.3. Database before and afterwards
