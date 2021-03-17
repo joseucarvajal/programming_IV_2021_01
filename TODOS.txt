@@ -24,7 +24,7 @@
 4.2. Creating records
 4.3. Database before and afterwards
 
-================ Tue, Mar 24th ================
+================ Mon, Apr 5th ================
 1. Create new GitHub project: "db-search"
 2. Create two pages with reports
 3. A user should be able filter out results (with different filter criteria)
@@ -33,3 +33,8 @@
 6. Attach the following screenshots. Step by step.
 6.1. Web application
 6.2. Filteing out results
+
+================ Schedule ==============
+Grades part 1: Apr 6, 8, 13
+Grades part 2: May 13, 18, 20
+
