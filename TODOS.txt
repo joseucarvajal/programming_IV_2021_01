@@ -23,3 +23,13 @@
 4.1. Web application
 4.2. Creating records
 4.3. Database before and afterwards
+
+================ Tue, Mar 24th ================
+1. Create new GitHub project: "db-search"
+2. Create two pages with reports
+3. A user should be able filter out results (with different filter criteria)
+4. At least 3 different fiels should be included per filter definition
+5. Two different buttons must be included (Search any -OR-) and (Search all -AND-). The results must be displayed as per the user selection (OR, AND)
+6. Attach the following screenshots. Step by step.
+6.1. Web application
+6.2. Filteing out results
