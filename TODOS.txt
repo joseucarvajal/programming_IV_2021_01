@@ -24,7 +24,7 @@
 4.2. Creating records
 4.3. Database before and afterwards
 
-================ Mon, Apr 5th ================
+================ Mon, Apr 12th ================
 1. Create new GitHub project: "db-search"
 2. Create two pages with reports
 3. A user should be able filter out results (with different filter criteria)
