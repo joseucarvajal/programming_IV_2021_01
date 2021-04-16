@@ -34,6 +34,14 @@
 6.1. Web application
 6.2. Filteing out results
 
+================ Mon, Apr 19th ================
+1. Create new React application "react-basic-app"
+2. Create git-hub repository "react-basic-app"
+3. Complete the componente structure started in class (https://reactjs.org/docs/thinking-in-react.html)
+4. The structure content and styles must be included.
+5. Attach screenshots to the github repository (.jpg, .png)
+
+
 ================ Schedule ==============
 Grades part 1: Apr 6, 8, 13
 Grades part 2: May 13, 18, 20
