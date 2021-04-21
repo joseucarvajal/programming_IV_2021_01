@@ -41,6 +41,27 @@
 4. The structure content and styles must be included.
 5. Attach screenshots to the github repository (.jpg, .png)
 
+================ Mon, Apr 22th ================
+1. Create new React application "react-coditional-rendering"
+2. Create git-hub repository "react-coditional-rendering"
+3. Create a new React application with the following objects:
+    1. Students
+    2. Course
+    3. Grades
+4. Create components to display courses with their students, their grades and their genders
+            Programming 1		
+    Name	Grade	Gender
+    Pepito	    3.5	        Male   (male image)
+    Maria	    2.1(RED)    Female (female image)
+    Carlitos	2(RED)	    Male (male image)
+            Programming 2		
+    Name	Grade	Gender
+    Miguel	    3.5	        Male   (male image)
+    Natalia	    2.1(RED)    Female (female image)
+
+5. Add at least 3 courses and 20 students
+6. Attach screenshots to the github repository (.jpg, .png)
+
 
 ================ Schedule ==============
 Grades part 1: Apr 6, 8, 13
