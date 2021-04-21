@@ -41,7 +41,7 @@
 4. The structure content and styles must be included.
 5. Attach screenshots to the github repository (.jpg, .png)
 
-================ Mon, Apr 22th ================
+================ Sat, Apr 24th ================
 1. Create new React application "react-coditional-rendering"
 2. Create git-hub repository "react-coditional-rendering"
 3. Create a new React application with the following objects:
