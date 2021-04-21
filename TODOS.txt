@@ -60,7 +60,8 @@
     Natalia	    2.1(RED)    Female (female image)
 
 5. Add at least 3 courses and 20 students
-6. Attach screenshots to the github repository (.jpg, .png)
+6. Create at least 3 components with props
+7. Attach screenshots to the github repository (.jpg, .png)
 
 
 ================ Schedule ==============
