@@ -77,9 +77,37 @@
 10. Attach screenshots to the github repository (.jpg, .png)
     10.1. Application working (components, design CSS)
     10.2. Printed values with console.log()
+    
+    
+ ================ Wed, Apr 28th ================
+1. Create new React application "react-forms"
+2. Create git-hub repository "react-forms"
+3. Create differente components (at least 3 components). (Add screenshot)
+4. Must create(invent) 3 different classes and 15 different objects
+5. The object should be related among them. (e.g.: A category has many products like we studied in class)
+6. Create one form to add new objects, must create variables (setState)
+7. Create fake data (e.g. "products.page.jsx" in class)
+8. Add CSS styles to the components
+9. Print variables names and values with console.log() as we did in class. (Add screenshot)
+10. Attach screenshots to the github repository (.jpg, .png)
+    10.1. Application working (components, design CSS)
+    10.2. Printed values with console.log()
 
+ ================ Tue, May 11 ================
+1. Create new React application "react-forms-create"
+2. Create 2 forms (the forms must be different, form 1 should be diffent of form2), each form should update the user interface by adding new object instances (as we saw in class)
+3. The forms should be validated (e.g. negative values... etc.) and display errores to the end user.
+4. The objects should be invented
 
+5. Attach screenshots to the github repository (.jpg, .png)
+    5.1. Application working (components, design CSS)
+    5.2. Printed values with console.log()
+    
 ================ Schedule ==============
-Grades part 1: Apr 6, 8, 13
-Grades part 2: May 13, 18, 20
+Grades: 
+    Assistance
+        May 4, 6
+    Sust.
+        May 11, 13
+
 
